@@ -1,2 +1,2 @@
-# api-book-part-two
-Source code for Part 2 of Hands on APIs for AI and Data Science
+# Projekt II: Portfolio Data Science
+To repozytorium zawiera program wykorzystujący standardowe frameworki Pythona, oparty na projektach z książki Ryana Daya "Interfejsy API w AI i Data Science".
